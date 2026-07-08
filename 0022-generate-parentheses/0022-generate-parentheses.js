@@ -22,6 +22,5 @@ var generateParenthesis = function(n) {
         }
     }
     something(0,0)
-    console.log(ans)
     return ans
 };
