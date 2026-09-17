@@ -47,7 +47,13 @@ public:
     for (int i = 0; i < 9; i++) {
       for (int j = 0; j < 9; j++) {
         if (board[i][j] != '.') {
-          if (!row(board, i, j) || !col(board, i, j) || !block(board, i, j)) {
+          if (!row(board, i, j)) {
+            return false;
+          }
+          if(!col(board, i, j)){
+            return false;
+          }
+          if(!block(board, i, j)){
             return false;
           }
         }
