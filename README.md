@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0011-container-with-most-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
