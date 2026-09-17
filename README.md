@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0118-pascals-triangle) |
+| [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
