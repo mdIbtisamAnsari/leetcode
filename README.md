@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
