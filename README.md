@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 ## String
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
