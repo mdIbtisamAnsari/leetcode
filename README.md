@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
