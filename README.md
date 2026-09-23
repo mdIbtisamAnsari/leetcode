@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0070-climbing-stairs) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdIbtisamAnsari/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdIbtisamAnsari/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
