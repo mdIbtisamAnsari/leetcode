@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0118-pascals-triangle) |
 | [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdIbtisamAnsari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdIbtisamAnsari/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -123,10 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0036-valid-sudoku) |
 | [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdIbtisamAnsari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdIbtisamAnsari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Manacher
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdIbtisamAnsari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdIbtisamAnsari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
