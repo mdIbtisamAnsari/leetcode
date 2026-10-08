@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2396-strictly-palindromic-number](https://github.com/mdIbtisamAnsari/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mdIbtisamAnsari/leetcode/tree/master/0070-climbing-stairs) |
+| [2396-strictly-palindromic-number](https://github.com/mdIbtisamAnsari/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mdIbtisamAnsari/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/mdIbtisamAnsari/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/mdIbtisamAnsari/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
